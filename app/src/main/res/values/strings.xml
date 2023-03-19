@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assignment#1</string>
+    <string name="selected_item">Selected item:</string>
+
+    <string-array name="Genres">
+        <item>Pop</item>
+        <item>Rap</item>
+        <item>Funk</item>
+        <item>Rock</item>
+        <item>Indie</item>
+        <item>Blues</item>
+    </string-array>
+</resources>
